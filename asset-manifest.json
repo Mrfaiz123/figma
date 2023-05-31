@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/figma/static/css/main.ecf2ccd3.css",
+    "main.js": "/figma/static/js/main.b8666c1d.js",
+    "static/media/img.png": "/figma/static/media/img.49a8523ffb1a330d69fa.png",
+    "static/media/Massimo Fabi_ direttore commerciale.png": "/figma/static/media/Massimo Fabi_ direttore commerciale.e33981379a6c0f856534.png",
+    "static/media/Testoni Cristian.png": "/figma/static/media/Testoni Cristian.2553cef8b0b0dc7c358c.png",
+    "static/media/Gavioli.png": "/figma/static/media/Gavioli.4a0e19c30aa3ab4d1404.png",
+    "index.html": "/figma/index.html",
+    "main.ecf2ccd3.css.map": "/figma/static/css/main.ecf2ccd3.css.map",
+    "main.b8666c1d.js.map": "/figma/static/js/main.b8666c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf2ccd3.css",
+    "static/js/main.b8666c1d.js"
+  ]
+}
